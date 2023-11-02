@@ -3,7 +3,7 @@ The project includes the official website of Ecell IIT Patna. My major contribut
 <br>
 Whenever any event was organized by Ecell, the information and required components were displayed on the website by our team.<br>
 <br>
-Website Link: https://sumit-me.github.io/E-CELL-Official/    
+Website Link:  https://sethiudit.github.io/E-cell-Official/
 <br>
 ![1 (1)](https://github.com/Sumit-me/E-CELL-Official/assets/98024836/1f1e8120-4a79-40ea-a77f-56179de951d9)
 
